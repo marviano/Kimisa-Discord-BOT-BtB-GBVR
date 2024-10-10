@@ -1,0 +1,42 @@
+# Terms of Service of Kimisa Discord BOT
+
+## 1. Acceptance of Terms
+
+By using the Game Combo Helper Discord bot ("the Bot"), you agree to be bound by these Terms of Service ("TOS"). If you do not agree to these terms, please do not use the Bot.
+
+## 2. Description of Service
+
+The Bot provides information and assistance related to game combos for [Game Name]. This service is provided for informational and educational purposes only.
+
+## 3. User Conduct
+
+Users agree to:
+- Use the Bot in compliance with Discord's Terms of Service
+- Not abuse, harass, or spam other users through the Bot
+- Not use the Bot for any illegal or unauthorized purpose
+
+## 4. Intellectual Property
+
+The game combos and information provided by the Bot are the property of their respective owners. Users may not reproduce, distribute, or use this information for commercial purposes without proper authorization.
+
+## 5. Disclaimer of Warranty
+
+The Bot is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or usefulness of any information provided by the Bot.
+
+## 6. Limitation of Liability
+
+We shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Bot.
+
+## 7. Modifications to Service and TOS
+
+We reserve the right to modify or discontinue the Bot at any time. We may also update these TOS from time to time. Continued use of the Bot after any changes constitutes acceptance of those changes.
+
+## 8. Governing Law
+
+These TOS shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+
+## 9. Contact Information
+
+For any questions regarding these TOS, please contact [Your Contact Information].
+
+Last updated: 10 10 2024
