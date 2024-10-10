@@ -1,0 +1,57 @@
+# Privacy Policy for Kimisa Discord BOT
+
+Last Updated: [Date]
+
+## 1. Introduction
+
+This Privacy Policy explains how the Game Combo Helper Discord bot ("we", "our", or "the Bot") collects, uses, and protects your information when you use our service.
+
+## 2. Information We Collect
+
+The Bot may collect and store the following information:
+
+- Discord User ID
+- Server ID
+- Command usage data
+- Game-related preferences or settings you provide
+
+We do not collect or store personal messages or other content not directly related to the Bot's functions.
+
+## 3. How We Use Your Information
+
+We use the collected information to:
+
+- Provide and maintain the Bot's services
+- Improve and optimize the Bot's performance
+- Respond to your requests or questions
+- Analyze usage patterns to enhance user experience
+
+## 4. Data Storage and Security
+
+We implement reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure.
+
+## 5. Data Sharing and Disclosure
+
+We do not sell, trade, or otherwise transfer your information to third parties. We may share data in the following circumstances:
+
+- With your consent
+- To comply with legal obligations
+- To protect our rights, privacy, safety, or property
+
+## 6. Your Rights
+
+You have the right to:
+
+- Access the personal information we hold about you
+- Request correction of your personal information
+- Request deletion of your data from our systems
+
+To exercise these rights, please contact us using the information provided in Section 9.
+
+## 7. Children's Privacy
+
+The Bot is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13.
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify users of any significant changes by posting the new Privacy Policy on this page.
