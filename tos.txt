@@ -31,12 +31,5 @@ We shall not be liable for any indirect, incidental, special, consequential, or 
 
 We reserve the right to modify or discontinue the Bot at any time. We may also update these TOS from time to time. Continued use of the Bot after any changes constitutes acceptance of those changes.
 
-## 8. Governing Law
-
-These TOS shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
-
-## 9. Contact Information
-
-For any questions regarding these TOS, please contact [Your Contact Information].
 
 Last updated: 10 10 2024
