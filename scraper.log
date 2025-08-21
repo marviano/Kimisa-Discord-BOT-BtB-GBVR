@@ -1,0 +1,90 @@
+2025-04-06 18:11:30,648 - __main__ - INFO - Scraping data for Zeta - Normal Moves c.L
+2025-04-06 18:16:18,057 - __main__ - INFO - Scraping data for Vikala - Unique Action 5U
+2025-04-06 18:16:19,610 - __main__ - ERROR - Subsection '5U' not found in 'Unique Action'
+2025-04-06 18:16:19,614 - __main__ - ERROR - Could not find content for Vikala's Unique Action 5U
+2025-04-06 18:16:45,393 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 18:23:21,628 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 18:23:39,242 - __main__ - INFO - Scraping data for Vikala - Unique Action 5U
+2025-04-06 18:23:40,766 - __main__ - ERROR - Subsection '5U' not found in 'Unique Action'
+2025-04-06 18:23:40,771 - __main__ - ERROR - Could not find content for Vikala's Unique Action 5U
+2025-04-06 18:26:52,822 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 18:27:04,256 - __main__ - INFO - Scraping data for Vikala - Unique Action 5U
+2025-04-06 18:27:05,797 - __main__ - ERROR - Subsection '5U' not found in 'Unique Action'
+2025-04-06 18:27:05,802 - __main__ - ERROR - Could not find content for Vikala's Unique Action 5U
+2025-04-06 18:28:28,241 - __main__ - INFO - Scraping data for Vikala - Unique Action 5U
+2025-04-06 18:28:29,800 - __main__ - ERROR - Subsection '5U' not found in 'Unique Action'
+2025-04-06 18:28:29,804 - __main__ - ERROR - Could not find content for Vikala's Unique Action 5U
+2025-04-06 18:28:38,342 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 18:34:28,673 - __main__ - INFO - Scraping data for Gran - Normal Moves 
+2025-04-06 18:34:30,288 - __main__ - ERROR - Subsection '' not found in 'Normal Moves'
+2025-04-06 18:34:36,880 - __main__ - INFO - Scraping data for Gran - cl 
+2025-04-06 18:34:38,692 - __main__ - ERROR - Section 'cl' not found
+2025-04-06 18:35:13,876 - __main__ - INFO - Scraping data for Vikala - 2u 
+2025-04-06 18:35:15,455 - __main__ - ERROR - Section '2u' not found
+2025-04-06 18:35:47,424 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 18:37:24,508 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 20:52:41,193 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 21:01:51,408 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 21:02:20,482 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 21:05:58,747 - __main__ - INFO - Scraping data for Vikala - Unique Action Dream Come True
+2025-04-06 21:06:15,198 - __main__ - INFO - Scraping data for Vikala - Unique Action Brave Counter
+2025-04-06 21:06:16,799 - __main__ - ERROR - Subsection 'Brave Counter' not found in 'Unique Action'
+2025-04-06 21:07:26,891 - __main__ - INFO - Scraping data for Vikala - Unique Action Brave Counter
+2025-04-06 21:07:28,521 - __main__ - ERROR - Subsection 'Brave Counter' not found in 'Unique Action'
+2025-04-06 21:08:35,040 - __main__ - INFO - Scraping data for Vikala - Unique Action Brave Counter
+2025-04-06 21:08:36,703 - __main__ - ERROR - Subsection 'Brave Counter' not found in 'Unique Action'
+2025-04-06 21:10:18,399 - __main__ - INFO - Scraping data for Vikala - Unique Action Brave Counter
+2025-04-06 21:10:19,921 - __main__ - ERROR - Subsection 'Brave Counter' not found in 'Unique Action'
+2025-04-06 21:10:39,318 - __main__ - INFO - Scraping data for Vikala - Skills Dream Attraction
+2025-04-06 21:10:55,275 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:10:56,827 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:10:56,833 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:12:22,303 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:12:23,850 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:12:23,855 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:13:05,766 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:13:07,324 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:13:07,330 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:13:44,109 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:13:45,664 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:13:45,670 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:15:47,482 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:15:49,053 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:15:49,057 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:16:44,221 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:16:45,796 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:16:45,801 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:17:54,768 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:17:56,757 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:17:56,761 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:18:18,056 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:18:19,645 - __main__ - ERROR - Subsection '236L' not found in 'Skills'
+2025-04-06 21:18:19,650 - __main__ - ERROR - Could not find content for Vikala's Skills 236L
+2025-04-06 21:19:46,172 - __main__ - INFO - Scraping data for Vikala - Skills 236L
+2025-04-06 21:20:01,394 - __main__ - INFO - Scraping data for Vikala - 236L 
+2025-04-06 21:20:02,959 - __main__ - ERROR - Section '236L' not found
+2025-04-06 21:20:51,047 - __main__ - INFO - Scraping data for Vikala - Skills 236M
+2025-04-06 21:20:52,608 - __main__ - ERROR - Subsection '236M' not found in 'Skills'
+2025-04-06 21:20:52,615 - __main__ - ERROR - Could not find content for Vikala's Skills 236M
+2025-04-06 21:30:32,274 - __main__ - INFO - Scraping data for Vikala - Skills 236M
+2025-04-06 21:30:33,908 - __main__ - ERROR - Subsection '236M' not found in 'Skills'
+2025-04-06 21:30:33,914 - __main__ - ERROR - Could not find content for Vikala's Skills 236M
+2025-04-06 21:43:02,003 - __main__ - INFO - Scraping data for Vikala - Skills 236M
+2025-04-06 21:43:44,096 - __main__ - INFO - Scraping data for Vikala - Skills 236H
+2025-04-06 21:44:04,964 - __main__ - INFO - Scraping data for Vikala - Skills Rodent Rhythm
+2025-04-06 21:44:15,536 - __main__ - INFO - Scraping data for Vikala - Skills 623L
+2025-04-06 21:44:25,490 - __main__ - INFO - Scraping data for Vikala - Skills 623M
+2025-04-06 21:44:40,824 - __main__ - INFO - Scraping data for Vikala - Skills 623H
+2025-04-06 21:45:01,422 - __main__ - INFO - Scraping data for Vikala - Skills Ring the Dormouse
+2025-04-06 21:45:28,231 - __main__ - INFO - Scraping data for Vikala - Skills 214L
+2025-04-06 21:45:36,342 - __main__ - INFO - Scraping data for Vikala - Skills 214M
+2025-04-06 21:45:52,841 - __main__ - INFO - Scraping data for Vikala - Skills 214H
+2025-04-06 21:46:02,870 - __main__ - INFO - Scraping data for Vikala - Skills Marching Teeth
+2025-04-06 21:46:18,608 - __main__ - INFO - Scraping data for Vikala - Skills 22L
+2025-04-06 21:46:28,717 - __main__ - INFO - Scraping data for Vikala - Skills 22M
+2025-04-06 21:46:38,693 - __main__ - INFO - Scraping data for Vikala - Skills 22H
+2025-04-06 22:24:59,425 - __main__ - INFO - Scraping data for Vikala - ultimate Ultimate Dream Attraction
+2025-04-06 22:25:01,414 - __main__ - ERROR - Section 'ultimate' not found
+2025-04-06 22:26:40,129 - __main__ - INFO - Scraping data for Vikala - ultimate 236U
+2025-04-06 22:26:41,759 - __main__ - ERROR - Section 'ultimate' not found
+2025-04-06 22:26:41,763 - __main__ - ERROR - Could not find content for Vikala's ultimate 236U

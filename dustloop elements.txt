@@ -1,0 +1,109 @@
+
+```
+// Character Basic Info
+.home-card-container
+.infobox
+.infobox-header
+.infobox-data
+.prosandcons-container
+.Summary
+.Pros
+.Cons
+.Pros-Header
+.Cons-Header
+
+// Moves and Attacks
+.attack-container
+.attack-gallery
+.attack-info
+.attack-info-body
+.frameDataGrid
+.frameDataGridHeader
+.frameDataGridRow
+.frameChartSection
+.frameChart
+.frameChart-data
+.frameChart-title
+.frame-data-total
+.frame-data
+
+// Section Headers
+.citizen-section-heading
+.mw-headline
+
+// Tabs for move images/hitboxes
+.tabber
+.tabber__tab
+.tabber__panel
+.tabber-tabpanel-Images-*
+.tabber-tabpanel-Hitboxes-*
+
+// Move Images
+.mw-file-element
+.mw-halign-center
+
+// Input Notation
+.input-badge
+.colorful-text-1  // Light attacks
+.colorful-text-2  // Unique attacks
+.colorful-text-3  // Medium attacks
+.colorful-text-4  // Heavy attacks
+.colorful-text-7  // Skill button
+
+// Additional Data
+.mw-collapsible
+.tooltip
+.tooltiptext
+
+// Move Types
+#Normal_Moves
+#Dash_Normals
+#Air_Normals
+#Unique_Action
+#Skills
+#Ultimate_Skills
+#Skybound_Art
+#Super_Skybound_Art
+
+// Individual move sections
+#c\.L, #c\.M, #c\.H, etc.
+#f\.L, #f\.M, #f\.H, etc.
+#2L, #2M, #2H, etc.
+#j\.L, #j\.M, #j\.H, etc.
+#Spear_of_Arvess, #Rhapsody, etc.
+```
+
+For more specific selectors to directly access elements:
+
+```
+// Character Name
+.Summary a.mw-selflink
+
+// Health Value
+.infobox-data:nth-of-type(2)
+
+// Move Damage
+.frameDataGridRow div:nth-child(1)
+
+// Move Guard Type
+.frameDataGridRow div:nth-child(2)
+
+// Move Startup Frames
+.frameDataGridRow div:nth-child(3)
+
+// Move Active Frames
+.frameDataGridRow div:nth-child(4)
+
+// Move Recovery Frames 
+.frameDataGridRow div:nth-child(5)
+
+// Move Advantage on Block
+.frameDataGridRow div:nth-child(6)
+
+// Move Advantage on Hit
+.frameDataGridRow div:nth-child(7)
+
+// Move Invulnerability
+.frameDataGridRow div:nth-child(8)
+```
+
